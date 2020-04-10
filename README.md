@@ -1,0 +1,1 @@
+# Laravel-Auth-Scaffolding-With-Email-Verification-Boilerplate
